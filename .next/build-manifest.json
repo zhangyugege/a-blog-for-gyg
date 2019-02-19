@@ -3,32 +3,32 @@
   "pages": {
     "/2019/my-first-blog": [
       "static/runtime/webpack-42652fa8b82c329c0559.js",
-      "static/chunks/commons.a75fe73362b88ea28ee6.js",
+      "static/chunks/commons.6f3d314a881d9197136e.js",
       "static/runtime/main-42bad8f13e2009b7ce4f.js"
     ],
     "/blogs": [
       "static/runtime/webpack-42652fa8b82c329c0559.js",
-      "static/chunks/commons.a75fe73362b88ea28ee6.js",
+      "static/chunks/commons.6f3d314a881d9197136e.js",
       "static/runtime/main-42bad8f13e2009b7ce4f.js"
     ],
     "/index": [
       "static/runtime/webpack-42652fa8b82c329c0559.js",
-      "static/chunks/commons.a75fe73362b88ea28ee6.js",
+      "static/chunks/commons.6f3d314a881d9197136e.js",
       "static/runtime/main-42bad8f13e2009b7ce4f.js"
     ],
     "/_app": [
       "static/runtime/webpack-42652fa8b82c329c0559.js",
-      "static/chunks/commons.a75fe73362b88ea28ee6.js",
+      "static/chunks/commons.6f3d314a881d9197136e.js",
       "static/runtime/main-42bad8f13e2009b7ce4f.js"
     ],
     "/_error": [
       "static/runtime/webpack-42652fa8b82c329c0559.js",
-      "static/chunks/commons.a75fe73362b88ea28ee6.js",
+      "static/chunks/commons.6f3d314a881d9197136e.js",
       "static/runtime/main-42bad8f13e2009b7ce4f.js"
     ],
     "/": [
       "static/runtime/webpack-42652fa8b82c329c0559.js",
-      "static/chunks/commons.a75fe73362b88ea28ee6.js",
+      "static/chunks/commons.6f3d314a881d9197136e.js",
       "static/runtime/main-42bad8f13e2009b7ce4f.js"
     ]
   }

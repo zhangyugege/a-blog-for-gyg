@@ -3,9 +3,9 @@
     "byIdentifier": {
       "external \"react\"": 0,
       "external \"styled-jsx/style\"": 1,
-      "external \"next/link\"": 2,
-      "external \"next/head\"": 3,
-      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!component/main.js 8b4daca7119e167507aee4c4a48cb649": 4,
+      "external \"next/head\"": 2,
+      "external \"next/link\"": 3,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!component/main.js 0b401d9221be1acc678672a27ab1b4e8": 4,
       "multi ./pages/2019/my-first-blog.js": 5,
       "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/2019/my-first-blog.js": 6,
       "multi ./pages/blogs.js": 7,
@@ -20,7 +20,7 @@
       "multi node_modules/next/dist/pages/_document.js": 16,
       "node_modules/next/dist/pages/_document.js": 17,
       "external \"next/document\"": 18,
-      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/blogs.js 7c628c2c506dfea3359e0ebecda83f93": 19
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/blogs.js 471f59e980237a4722a6b801103ea2c4": 19
     },
     "usedIds": {
       "0": 0,
@@ -47,12 +47,12 @@
   },
   "chunks": {
     "byName": {
-      "static/AOc0ttJYeWgQreMTsFAaS/pages/2019/my-first-blog.js": 0,
-      "static/AOc0ttJYeWgQreMTsFAaS/pages/blogs.js": 1,
-      "static/AOc0ttJYeWgQreMTsFAaS/pages/index.js": 2,
-      "static/AOc0ttJYeWgQreMTsFAaS/pages/_app.js": 3,
-      "static/AOc0ttJYeWgQreMTsFAaS/pages/_error.js": 4,
-      "static/AOc0ttJYeWgQreMTsFAaS/pages/_document.js": 5
+      "static/2Ze1_SBHpwhptkZ66ajxE/pages/2019/my-first-blog.js": 0,
+      "static/2Ze1_SBHpwhptkZ66ajxE/pages/blogs.js": 1,
+      "static/2Ze1_SBHpwhptkZ66ajxE/pages/index.js": 2,
+      "static/2Ze1_SBHpwhptkZ66ajxE/pages/_app.js": 3,
+      "static/2Ze1_SBHpwhptkZ66ajxE/pages/_error.js": 4,
+      "static/2Ze1_SBHpwhptkZ66ajxE/pages/_document.js": 5
     },
     "bySource": {},
     "usedIds": [
