@@ -6,8 +6,8 @@
       "external \"next/head\"": 2,
       "external \"next/link\"": 3,
       "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!component/main.js 0b401d9221be1acc678672a27ab1b4e8": 4,
-      "multi ./pages/2019/my-first-blog.js": 5,
-      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/2019/my-first-blog.js": 6,
+      "multi ./pages/2019/resume.js": 5,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/2019/resume.js": 6,
       "multi ./pages/blogs.js": 7,
       "multi ./pages/index.js": 8,
       "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js": 9,
@@ -20,9 +20,7 @@
       "multi node_modules/next/dist/pages/_document.js": 16,
       "node_modules/next/dist/pages/_document.js": 17,
       "external \"next/document\"": 18,
-      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/blogs.js 471f59e980237a4722a6b801103ea2c4": 19,
-      "multi ./pages/2019/resume.js": 5,
-      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/2019/resume.js": 6
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/blogs.js 471f59e980237a4722a6b801103ea2c4": 19
     },
     "usedIds": {
       "0": 0,
@@ -49,27 +47,21 @@
   },
   "chunks": {
     "byName": {
-      "static/2Ze1_SBHpwhptkZ66ajxE/pages/2019/my-first-blog.js": 0,
-      "static/2Ze1_SBHpwhptkZ66ajxE/pages/blogs.js": 1,
-      "static/2Ze1_SBHpwhptkZ66ajxE/pages/index.js": 2,
-      "static/2Ze1_SBHpwhptkZ66ajxE/pages/_app.js": 3,
-      "static/2Ze1_SBHpwhptkZ66ajxE/pages/_error.js": 4,
-      "static/2Ze1_SBHpwhptkZ66ajxE/pages/_document.js": 5,
-      "static/0RLJew4w1oQ8nYZ3BWeoX/pages/2019/resume.js": 6,
-      "static/0RLJew4w1oQ8nYZ3BWeoX/pages/blogs.js": 7,
-      "static/0RLJew4w1oQ8nYZ3BWeoX/pages/index.js": 8,
-      "static/0RLJew4w1oQ8nYZ3BWeoX/pages/_app.js": 9,
-      "static/0RLJew4w1oQ8nYZ3BWeoX/pages/_error.js": 10,
-      "static/0RLJew4w1oQ8nYZ3BWeoX/pages/_document.js": 11
+      "static/4tq8weUhts01REjL04xtg/pages/2019/resume.js": 0,
+      "static/4tq8weUhts01REjL04xtg/pages/blogs.js": 1,
+      "static/4tq8weUhts01REjL04xtg/pages/index.js": 2,
+      "static/4tq8weUhts01REjL04xtg/pages/_app.js": 3,
+      "static/4tq8weUhts01REjL04xtg/pages/_error.js": 4,
+      "static/4tq8weUhts01REjL04xtg/pages/_document.js": 5
     },
     "bySource": {},
     "usedIds": [
-      10,
-      11,
-      6,
-      7,
-      8,
-      9
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
     ]
   }
 }

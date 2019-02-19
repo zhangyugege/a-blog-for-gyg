@@ -2,8 +2,10 @@ import Page from '../../component/main.js'
 
 export default () => (
   <Page className="blog">
-    <span><bold>刘晨</bold>(zhangyugege)</span>
+    <span><bold>刘晨</bold>(zhangyugege) </span>
     <br/>
+    <br/>
+    <p>tel: 17357125759  email: liuchen798@163.com</p>
     <br/>
     <span><bold>教育背景:</bold> 哈尔滨工业大学 2017届 本科 信息安全</span>
     <br/>
